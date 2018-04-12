@@ -1,0 +1,12 @@
+D:\Project\c#\ASM_InternetBanking-master\InternetBanking\obj\Debug\InternetBanking.csprojResolveAssemblyReference.cache
+D:\Project\c#\ASM_InternetBanking-master\InternetBanking\obj\Debug\InternetBanking.csproj.CoreCompileInputs.cache
+D:\Project\c#\ASM_InternetBanking\InternetBanking\obj\Debug\InternetBanking.csproj.CoreCompileInputs.cache
+D:\Project\c#\ASM_InternetBanking\InternetBanking\bin\Debug\InternetBanking.exe.config
+D:\Project\c#\ASM_InternetBanking\InternetBanking\bin\Debug\InternetBanking.exe
+D:\Project\c#\ASM_InternetBanking\InternetBanking\bin\Debug\InternetBanking.pdb
+D:\Project\c#\ASM_InternetBanking\InternetBanking\bin\Debug\MySql.Data.dll
+D:\Project\c#\ASM_InternetBanking\InternetBanking\bin\Debug\MySql.Data.xml
+D:\Project\c#\ASM_InternetBanking\InternetBanking\obj\Debug\InternetBanking.csproj.CopyComplete
+D:\Project\c#\ASM_InternetBanking\InternetBanking\obj\Debug\InternetBanking.exe
+D:\Project\c#\ASM_InternetBanking\InternetBanking\obj\Debug\InternetBanking.pdb
+D:\Project\c#\ASM_InternetBanking\InternetBanking\obj\Debug\InternetBanking.csprojResolveAssemblyReference.cache
